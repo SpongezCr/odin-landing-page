@@ -1,0 +1,1 @@
+This is a project in TOP (The Odin Project) about html and css, the goal is to make a landing page from some resources given.
